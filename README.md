@@ -1,0 +1,2 @@
+# Using-Sagemaker-Pipelines-to-train-and-deploy-a-model-to-predict-product-ratings-using-BlaizingText
+this is a side project to train and deploy a text classification model over Women's e-commerce CLothing reviews to predict e-commerce product ratings using Sagemaker Pipelines and BlazingText algorithm, a built-in sagemaker algorithm which provides highly optimized implementations of word2vec and text classifcation algorithms.
